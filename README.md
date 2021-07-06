@@ -17,4 +17,4 @@ Features:
 
 <img src="images/start.png"> <br/>
 <img src="images/InProgress.png"> <br/>
-<img src="images/End.png"> <br/>
+<img src="images/Sorted.png"> <br/>
