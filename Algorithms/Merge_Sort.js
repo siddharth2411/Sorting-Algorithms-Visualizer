@@ -111,7 +111,6 @@ mergeSortbtn.addEventListener('click', async function(){
     let r = parseInt(ele.length) - 1;
     disableSortingBtn();
     disableSizeSlider();
-    disableNewArrayBtn();
     await mergeSort(ele, l, r);
     enableSortingBtn();
     enableSizeSlider();
